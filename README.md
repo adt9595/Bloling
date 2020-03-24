@@ -1,5 +1,5 @@
 # Bloling
-Bowling simulation game, built using Unity
+Bowling simulation game, built using Unity 2019.3.3
 
 Features:
 * Ball thrown through thrusting of the mouse, with forward and sideways motion respectively setting its power and curve
